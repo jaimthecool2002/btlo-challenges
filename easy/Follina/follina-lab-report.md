@@ -1,15 +1,19 @@
 # Follina Lab Report
 
 - Q1) What is the SHA1 hash value of the sample? (Format: SHA1Hash)
+
   Using sha1sum command along with the filename would give the sha1 hash value
 
 - Q2) According to VirusTotal, what is the full filetype of the provided sample? (Format: X X X X)
+
   Upload the file in virustotal, under details tab is the full filetype
 
 - Q3) Extract the URL that is used within the sample and submit it (Format: https://x.domain.tld/path/to/something)
+
   On virustotal, under the relations tab is the url used within sample
 
 - Q4) What is the name of the XML file that is storing the extracted URL? (Format: file.name.ext)
+
   On virustotal, it is under the bundled files section
 
 - Q5) The extracted URL accesses a HTML file that triggers the vulnerability to execute a malicious payload. According to the HTML processing functions, any files with fewer than <Number> bytes would not invoke the payload. Submit the <Number> (Format: Number of Bytes)
