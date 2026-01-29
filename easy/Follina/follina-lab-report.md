@@ -1,8 +1,7 @@
 # Follina Lab Report
 
 - Q1) What is the SHA1 hash value of the sample? (Format: SHA1Hash)
-
-  Using sha1sum command along with the filename would give the sha1 hash value
+  - Using sha1sum command along with the filename would give the sha1 hash value
 
 
 - Q2) According to VirusTotal, what is the full filetype of the provided sample? (Format: X X X X)
