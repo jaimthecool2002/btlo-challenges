@@ -1,4 +1,4 @@
-# The Report Lab Report
+# Meta Lab Report
 
 - Q1) What is the camera model?
   - Using exiftool, I found out the details about the image and camera
