@@ -14,3 +14,5 @@
 
 - Q5) Using ‘Pass the Hash’ technique to enter and control remote systems on a network is common. How would you detect it in your company?
   - Answer is available on the MITRE ATT&CK website
+
+<img width="602" height="329" alt="att ck" src="https://github.com/user-attachments/assets/f2688b73-4397-4950-9aa1-398a17a3ac0f" />
