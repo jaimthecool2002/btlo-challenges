@@ -1,7 +1,11 @@
 # Powershell Analysis Lab Report
 
+<img width="940" height="105" alt="image" src="https://github.com/user-attachments/assets/8ac88b87-81e9-4771-ad16-8afc2b7e0eaa" />
+
 - Q1) What is the SHA256 hash value for the PowerShell script file?
   - Running sha256sum on terminal will give the sha256 hash for the file
+
+<img width="940" height="481" alt="image" src="https://github.com/user-attachments/assets/c9c2b910-2c69-4981-8d16-a9f18d698c1d" />
 
 - Q2) What email address is used to send and receive emails?
   - Using nano will reveal the email addresses used to send and receive emails
