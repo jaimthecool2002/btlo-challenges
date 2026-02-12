@@ -18,7 +18,6 @@
 - Q4) What is the MD5 hash of the ransomware?
   - Download the file via export objects and then use md5sum to see the MD5 hash of the ransomware
 
-
 - Q5) What is the name of the ransomware?
   - Virustotal scan of this ransomware displays the name 
 
