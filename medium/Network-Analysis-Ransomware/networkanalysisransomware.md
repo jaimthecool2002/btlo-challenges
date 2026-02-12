@@ -15,14 +15,22 @@
 - Q3) Name the ransomware executable file?
   - The name is in the URL of the ransomware
 
+<img width="940" height="94" alt="image" src="https://github.com/user-attachments/assets/6e2ae869-a588-4035-b83a-879e26584d91" />
+
 - Q4) What is the MD5 hash of the ransomware?
   - Download the file via export objects and then use md5sum to see the MD5 hash of the ransomware
+
+<img width="940" height="269" alt="image" src="https://github.com/user-attachments/assets/2475e25e-6494-4da7-bd7b-adfe2da19bdb" />
 
 - Q5) What is the name of the ransomware?
   - Virustotal scan of this ransomware displays the name 
 
+<img width="940" height="396" alt="image" src="https://github.com/user-attachments/assets/68b9ede8-c65f-4431-9988-c5f2d73d2906" />
+
 - Q6) What is the encryption algorithm used by the ransomware, according to the ransom note?
   - The ransom note displays the encryption algorithm used by the ransomware
+
+<img width="940" height="105" alt="image" src="https://github.com/user-attachments/assets/591e4ccb-ad88-4a24-9310-2a2f6b2958c8" />
 
 - Q7) What is the domain beginning with ‘d’ that is related to ransomware traffic?
   - Virustotal displays the doman begineering with 'd' that is related to ransomware traffic
