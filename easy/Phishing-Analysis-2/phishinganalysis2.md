@@ -1,5 +1,7 @@
 # Phishing Analysis 2 Lab Report
 
+<img width="940" height="458" alt="image" src="https://github.com/user-attachments/assets/91561c95-99f9-45e2-9ebd-139230c1b88a" />
+
 - Q1) What is the sending email address?
   - Answer is in the email once opened in Thunderbird
 
@@ -17,6 +19,8 @@
 
 - Q6) What is the URL of the main call-to-action button?
   - Answer is in the email once opened in Thunderbird
+
+<img width="940" height="503" alt="image" src="https://github.com/user-attachments/assets/ff2627df-e76c-417d-b8fc-8dab7c076287" />
 
 - Q7) Look at the URL using URL2PNG. What is the first sentence (heading) displayed on this site? (regardless of whether you think the site is malicious or not)
   - Using url2png, the answer is shown on the webpage
