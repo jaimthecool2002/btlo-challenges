@@ -1,5 +1,8 @@
 # Paranoid Lab Report
 
+<img width="940" height="940" alt="image" src="https://github.com/user-attachments/assets/fb8427d7-b7f9-4a4d-8204-5fc1912e287c" />
+<img width="940" height="311" alt="image" src="https://github.com/user-attachments/assets/bbd5b75c-3860-4afd-a244-30191aa60afb" />
+
 - Q1) What account was compromised?
   - Answer is in the output of the aureport command execution
 
