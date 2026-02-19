@@ -71,23 +71,30 @@ Each challenge is solved using a structured methodology:
 | Challenge | Category | Status |
 |----------|----------|--------|
 | ATT&CK | Incident Response | Completed |
+| Barcode World | CTF-like | Completed |
+| Bruteforce | Incident Response | Completed |
+| Classical City | CTF-like | Completed |
 | D3FEND | CTF-like | Completed |
 | Follina | Incident Response | Completed |
 | ILOVEYOU | Reverse Engineering | Completed |
 | Injection Series Part 4 | Reverse Engineering | Completed |
-| Malware Analysis - Ransomeware Script | Reverse Engineering | Completed |
+| Malware Analysis - Ransomware Script | Reverse Engineering | Completed |
 | Melissa | Reverse Engineering | Completed |
 | Meta | Digital Forensics | Completed |
+| Network Analysis - Ransomware | Security Operations | Completed |
+| Paranoid | Incident Response | Completed |
 | Phishing Analysis | Security Operations | Completed |
 | Phishing Analysis 2 | Security Operations | Completed |
 | Powershell Anaysis - Keylogger | Reverse Engineering | Completed |
 | Reverse Engineering - Another Injection | Reverse Enginnering | Completed |
 | Secrets | Incident Response | Completed |
 | Shiba Insider | Digital Forensics | Completed |
+| Source | Reverse Engineering | Completed |
 | Spectrum | Digital Forensics | Completed |
+| Squid Game | CTF-like | Completed |
 | The Report | Security Operations | Completed |
-
-*(This table will be updated as challenges are completed.)*
+| The Report II | Security Operations | Completed |
+| Veriarty | Digital Forensics | Completed |
 
 ---
 
