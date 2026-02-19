@@ -78,6 +78,14 @@ Each challenge is solved using a structured methodology:
 | Malware Analysis - Ransomeware Script | Reverse Engineering | Completed |
 | Melissa | Reverse Engineering | Completed |
 | Meta | Digital Forensics | Completed |
+| Phishing Analysis | Security Operations | Completed |
+| Phishing Analysis 2 | Security Operations | Completed |
+| Powershell Anaysis - Keylogger | Reverse Engineering | Completed |
+| Reverse Engineering - Another Injection | Reverse Enginnering | Completed |
+| Secrets | Incident Response | Completed |
+| Shiba Insider | Digital Forensics | Completed |
+| Spectrum | Digital Forensics | Completed |
+| The Report | Security Operations | Completed |
 
 *(This table will be updated as challenges are completed.)*
 
