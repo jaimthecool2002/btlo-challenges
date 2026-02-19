@@ -73,6 +73,11 @@ Each challenge is solved using a structured methodology:
 | ATT&CK | Incident Response | Completed |
 | D3FEND | CTF-like | Completed |
 | Follina | Incident Response | Completed |
+| ILOVEYOU | Reverse Engineering | Completed |
+| Injection Series Part 4 | Reverse Engineering | Completed |
+| Malware Analysis - Ransomeware Script | Reverse Engineering | Completed |
+| Melissa | Reverse Engineering | Completed |
+| Meta | Digital Forensics | Completed |
 
 *(This table will be updated as challenges are completed.)*
 
