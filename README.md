@@ -70,7 +70,9 @@ Each challenge is solved using a structured methodology:
 
 | Challenge | Category | Status |
 |----------|----------|--------|
-| Coming Soon | — | 🔄 In Progress |
+| ATT&CK | Incident Response | Completed |
+| D3FEND | CTF-like | Completed |
+| Follina | Incident Response | Completed |
 
 *(This table will be updated as challenges are completed.)*
 
